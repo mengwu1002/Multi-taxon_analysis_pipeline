@@ -1,0 +1,2 @@
+TCTAAGC	Sample1	Bt7330,Bovatus,BtVPI,BWH2
+CTGTCAT	Sample2	Bt7330,Bovatus,BtVPI

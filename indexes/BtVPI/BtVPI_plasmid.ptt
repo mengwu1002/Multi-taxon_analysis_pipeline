@@ -1,0 +1,41 @@
+Bacteroides thetaiotaomicron VPI-5482 plasmid p5482, complete sequence - 1..33038
+38 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..528	+	175	29611501	-	BT_p548201	-	-	hypothetical protein
+525..1004	+	159	29611502	-	BT_p548202	-	-	hypothetical protein
+1077..1469	-	130	29611503	-	BT_p548203	-	-	hypothetical protein
+1785..2471	+	228	29611504	-	BT_p548204	-	-	hypothetical protein
+2747..3787	-	346	29611505	-	BT_p548205	-	-	putative replication protein B
+4547..5167	+	206	29611506	-	BT_p548206	-	-	mobilization protein A
+5172..7421	+	749	29611507	-	BT_p548207	-	-	mobilization protein B
+7423..8862	+	479	29611508	-	BT_p548208	-	COG3505U	mobilization protein C
+9126..9413	+	95	29611509	-	BT_p548209	-	-	hypothetical protein
+9413..9715	+	100	29611510	-	BT_p548210	-	-	hypothetical protein
+9727..12171	+	814	29611511	-	BT_p548211	-	COG3451U	TraG-like protein
+12149..12718	+	189	29611512	-	BT_p548212	-	-	TraI-like protein
+12723..13496	+	257	29611513	-	BT_p548213	-	-	hypothetical protein
+13508..14152	+	214	29611514	-	BT_p548214	-	-	hypothetical protein
+14157..15047	+	296	29611515	-	BT_p548215	-	-	TraM-like protein
+15044..16141	+	365	29611516	-	BT_p548216	-	-	TraN-like protein
+16678..16887	+	69	29611517	-	BT_p548217	-	-	hypothetical protein
+16898..17605	+	235	29611518	-	BT_p548218	-	-	hypothetical protein
+17610..18116	+	168	29611519	-	BT_p548219	-	-	hypothetical protein
+18135..18590	+	151	29611520	-	BT_p548220	-	-	hypothetical protein
+19147..19419	+	90	29611521	-	BT_p548221	-	-	hypothetical protein
+19502..19945	-	147	29611522	-	BT_p548222	-	-	hypothetical protein
+20285..20521	-	78	29611523	-	BT_p548223	-	-	hypothetical protein
+20646..20846	-	66	29611524	-	BT_p548224	-	-	hypothetical protein
+21020..21346	-	108	29611525	-	BT_p548225	-	-	hypothetical protein
+21509..21904	+	131	29611526	-	BT_p548226	-	-	hypothetical protein
+22343..23404	+	353	29611527	-	BT_p548227	-	-	hypothetical protein
+23353..24321	+	322	29611528	-	BT_p548228	-	-	hypothetical protein
+24365..25486	+	373	29611529	-	BT_p548229	-	-	hypothetical protein
+25675..25932	-	85	29611530	-	BT_p548230	-	-	hypothetical protein
+25937..26695	-	252	29611531	-	BT_p548231	-	COG1192D	chromosome-partitioning ATPase
+26983..27312	+	109	29611532	-	BT_p548232	-	-	hypothetical protein
+27316..28146	+	276	29611533	-	BT_p548233	-	COG3943R	putative DNA-binding protein
+28160..28798	+	212	29611534	-	BT_p548234	-	COG1961L	DNA resolvase
+28902..30410	+	502	29611535	-	BT_p548235	-	COG3177S	hypothetical protein
+30433..30831	+	132	29611536	-	BT_p548236	-	-	hypothetical protein
+31012..31395	-	127	29611537	-	BT_p548237	-	-	hypothetical protein
+31850..32866	+	338	29611538	-	BT_p548238	-	COG4227L	DNA primase
